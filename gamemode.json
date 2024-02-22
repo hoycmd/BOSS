@@ -1,0 +1,25 @@
+{
+    "Name": "<color=red>ПАРКУР НА АДМИНКУ|ОТ:BOSSa!!!</a>",
+    "Description": "ПАРКУР ОТ BOSSA!!!",
+    "StartClientVersion": 334,
+    "MapLists": [
+      {
+        "MapListId": 8401,
+        "Name": "Паркур на админку|от BOSSa!!!"
+      }
+    ],
+    "Parameters": {
+      "Bool": [
+        {
+          "Name": "RedTeam",
+          "DisplayName": "Teams/Red",
+          "Default": true
+        },
+        {
+          "Name": "BlueTeam",
+          "DisplayName": "Teams/Blue",
+          "Default": true
+        }
+      ]
+    }
+}
